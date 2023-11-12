@@ -1,0 +1,2 @@
+# hostloc_getPoints
+定时获取hostloc积分,支持青龙和actions定时执行
