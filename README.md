@@ -7,8 +7,7 @@
 ## 青龙变量
 | 参数 | 说明                     |  格式  |
 | ---- | -----------------------  |  -------  |
-| hostloc  | 账号，密码 |  `abcd,11111
-bbbb,22222`  |
+| hostloc  | 账号，密码 |  abcd,11111  |
 | hostloc_fs  | 推送的平台 |  多个平台使用&隔开 支持push,kt,stb,qm,tel  |
 | hostloc_push  | Pushplus的推送token |  token  |
 | hostloc_ktkey  | 酷推的key |  key  |
